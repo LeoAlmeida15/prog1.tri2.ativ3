@@ -29,7 +29,7 @@ FEITOS ATÉ AQUI----------------------------------------------------------------
 
 ## Métodos estáticos (static)
 
-[link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuUAoEUAWlLPIsquptrrsLAFEBnAFwFNQBjAZ4BMAlgHMA9qH4cAtqIB27AE4BDUOICuLcf3FSAl21HbQHdgEO2g7uIAU7JRe4BKAHSNVoOw9AAzJQC8eUSlQAEc1Lh0OAyMABw4FTlkAc5UVGIVRGMEVbgAbJRYWLi5ZJXEyllUAIwArKNFK-hz8wo5XIiZckw8AY-EAL85BSpilZR81ZIBX7rCSvokOONlJYMlQQVlvUQUpJSSZxq41YNFa+td8fDyCypQlXO41fIUAb3xQT482e0sPILG1iUeFkJyq8QANKAqiCwfFHO8vkjQAoomoFLJQCoANTQj5fAC++M+nj+LDUVTYykECiBsKk4IUUJhoFBDPhiORn1RbHRmJUxDxSKJRLcUnqRm8k24gjkKiKwXSHBlLDGi1AJ2qdQM1zkmi6zlyomE1nuj2eY2cmj2tIArFCAOyORwEKzyUQGo0ms1PF5WilUpQ06z20AAJmdQA) By Leonardo
+[link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCiAzgC4CmoAxgM8AmASwDmAe1B92AWxEA7NgCcAhqDEBXZmImhJAS9Yi+I5qHZsAh6wFcjoABRtFlrgEoAdA1AB5UA6egAZooAXtwikqAAjqqcYrr6hqAADuzyHDIA58oAB0nyPInyAspcADaKzMzsADQenDIAx2KKNiIARgBW7PrGXIWKhsbKiYqpAvLi7GXuhAByphwmAB5SiSUiVSrGcQY2zI2g6v02w0rciiVcqmXjymby7IoeWoL+KewyHMb+wqpKxkLsMJ6QpccrTMAoMJiGzbAY+fa+KwbRIGKQ2VSWEoCIJmIhrYyCe6sRSSd4cDyOJQANx0BOKZQq1R8Uly7C4AmYI24fXGqnCbU6+nceDwpXKxgA4oDSaw+qAAN54UDKnzEvwjB4ARVU-SUhlsZUMOFAMj5rRSzgVSpVNqJvxkoENYgAVI6jtblQBfD2qxxWUAaxQAJS6ihkQiuIlsrXK7GNpsk5vkG3OrF+injZotVpttq69tAMcqoFdqfTPu9eErHk8Wz0O2MKIk4UqvMx2KOBLGodJH04yTK3AZlRqhEq4WUMjZpmYAj4-U4Wl6RV5-I6XRE7mschEJXYrjWQlsUrCXT6rkD2t1R1sAFZnM5RbINHuDyIjyeZefAyHieHI7YABsGwACwPkAA) By Leonardo
 
 ## Propriedades estáticas (static)
 
