@@ -17,8 +17,6 @@
 [link](https://www.typescriptlang.org/play/?#code/PTAEFpISQOwZwC4EMYGMCWSDnBjg9qACYCmoeARgFbEJ5yTgBQIzYAgqOvMmprgQEuyoAA4AnPKmJw4BEqFRjMY0AFcAtmSo0CSUUjEJ0K+Rr2oANkhnEANK1AIxKOADM8Y9SkIEC6vBbyABSW1nDEAJSgxJoaWtS0oDB66jEAz0pIAHQObASqRhboAF4GoABEMMQA7uW2apoweABuvtqJQoqYPgp4muGqcKJiaeLodKDNSBYe0tEOInimhSVlE0hO6OQFE6TqArQ+QySuXOhHSeZWNjkgoFAyBCLEnugIpF1lzQCHShMUCQmqD6CgMSFQ7zEAFvEOhUNZor11ItDEhUjBaEMYkiNPY7l4hsDNNJkBcuCRnjASBjpPVaGJklTfAo0oR0ABzPxIdBDDzslCrHqkMTEAroIrFb7NYgWHKMUIyUAABResmS7JiAG9GKBdaAAHJ9YgALlAiCUMHZAG4dXqAErgpCm81ca223VsTxOs2bS02929bhiVQQjxBQ2pZ2+9n1B3wqMWmOgT1eBOuqLavVZxwACx5WQjpAAvAajTbs3qEHm4Fk43oS3XyxXc-mU-Xk16m7qAL6MXvA7jK1V4dUxACMoBLVWqQ7EaqQGvUQQA5AAZYh4Zf1ZcACTMTS3oGXAFE4CIkIQkMuIjaB4hZ-PFwAmSdJGoPkcLmIrqCcsSH5c2BgfAAIAWXBHML03G95RHe8VTnT9FwAZlfacP1HJdlwAYSQVQUAA48LHcLdALEYFl1AG8gA) By Leonardo
 
 
-FEITOS ATÉ AQUI------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## Modificadores de acesso (public, private, protected)
 
@@ -41,7 +39,7 @@ FEITOS ATÉ AQUI----------------------------------------------------------------
 
 ## Herança
 
-[link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuUAoEUAWlLPIsquptrrsLAFMBnAFydAGMBngEwCWAcwD2oPkwC2IgHbsATgENQYgK4sxE0AAsmSmQHPFAGlCKAjqoGh5TAA62WTGW0XSWoNiL4iPv0JJuALcAZnq+jNwikmbcinaKXAJ8ilpaXNF6ppyukgBGAJcxAjIhIvKB7qCWnP5ePgHBYfJiDkxJLIqRHPKgqjEymWZiTr0l7IoySakipiKqoE4AVsoyrE5xGnFc2uUtoJxCil4euvIpkt2TXrHainkCADbJqZzpmb2W12Kr7esvaRyeliDhEDgETBSWkGkiYADp8IxIgARJghEoCAwAY80nC4j0ULCcLCR+HxhI8AFk3AJmv4AN74UDMqJyNjyVRcLzyAAUdlUeWeXFAMKYeAUJSEAEpQPSAL6IllRWG8mWMpVKjJyESPeGPERCHkAAwAJPS2NoBCw4aK5QcJsrnD4jVKmSyFQqyQSiaAUIldvJ9kwAB4cGR8Kk0ukedUsgDccfwnvJPoA4scxCGwxHQNTJLTwjG3cyE0nESBIvA2ZNptjcSo8ksmCdSVr2KAjl4AIygAC8IqYAHdQOmvDyAOTQRSd8euttsOIiHv9tbDv07PYiCfQDJsNiz8vASKwVgcEkVsmyDS6uH4piKVX4TtL28fHlzxQvjIq99AA) By Daniel
+[link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQozjM6N+rUeNAALRoukBzhQDpQaAI4BXflzn8FU5qGsSlnADYLmzDoIMFTwYuXScFXiU0aX53TwAaUBsOOUYAB1S-aVYPBUVOdjkAW7Z+Th8uYQlrWVAlLV5hFya6mPd+ZlMQ2GFG1tig0AzGTg6lVPUAIwNXCVBpKo4FUT85e0c+jjSm5ls6rgU0hVHI8RCdSU1+NbdQZirzNBcvHz8XABlGZdAOAFlj46ifRySJzFjMCrlfKFEqsMo+LogBghAAijAAZvwYkYAMfaDgvXwsZF4QkuaIDTygADeeFA9MqslYcmsBWEcgAFGlrJNPGV5oscHdmVjBABKGkAXzwdIZlzhcmgVQ5EtpDPVjPunkYpk8wkEHIABgASamsXQdUwLCSMSU-NgAQ5+Eiu0j6t3uEkNYtl9Ol0tJ3l8oE+30YAA92G7yW1BmqGQBuBN4ANk0D-cqqH6RxjRiyxqnx+lJlMypGEeBMhTSUYKXH45STABWjC0zBJqiZoG1ywAjKAALzzRgAdxDX2EHIA5NBYpMFFOfZ22KB3JnhP2h9JR+mAapp78ysJF2XgN0WOx20jSTItTqvF9OT6exvTPLrkqJCq8GvAb23y6CqfiqQA) By Leonardo
 
 ## Polimorfismo
 
